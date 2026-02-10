@@ -49,7 +49,10 @@ Declarations:
 4. CURRENT MAINTAINERS
 ---------------------------------------------------------
 
-(Initial entries may be populated during formation.)
+- John Fenner
+  Role: Maintainer
+  Representation: Individual (no organizational representation)
+  Term: Initial – Ongoing
 
 Format:
 - Name
