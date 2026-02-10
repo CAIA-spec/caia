@@ -87,6 +87,16 @@ declaration, subject to seat-balance review at the next term boundary.
 5. SELECTION AND SUCCESSION
 ---------------------------------------------------------
 
+Single-Maintainer Proviso
+-------------------------
+CMG may temporarily consist of a single maintainer.
+
+During such periods:
+- No breaking changes may be approved without an explicit public
+  call for review lasting no less than 30 days
+- All changes must include written rationale in the commit history
+- Expansion of CMG membership is a standing priority
+  
 Initial Formation
 -----------------
 - Initial maintainers are appointed by the CAIA originator(s)
