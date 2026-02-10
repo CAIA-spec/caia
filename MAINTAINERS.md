@@ -78,5 +78,10 @@ Changes to this document must be made via committed updates and should
 include a brief commit message describing the change.
 
 ---------------------------------------------------------
+
+Note:
+At present, CMG consists of a single maintainer.
+This is considered a temporary formation state.
+
 END OF DOCUMENT
 =========================================================
